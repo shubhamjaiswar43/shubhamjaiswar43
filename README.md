@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhamjaiswar43
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning cpp language
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me , my instagram handle is shubham_jaiswar_43
 
