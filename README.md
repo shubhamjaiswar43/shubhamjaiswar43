@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @shubhamjaiswar43
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Web Development
+- ✨ I Have Good Knowledge Of C++ programming language And MERN Stack.
+- 🌱 I’m currently learning Machine Learning in python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me , My Linkedin Handle is shubhamjaiswar
 
